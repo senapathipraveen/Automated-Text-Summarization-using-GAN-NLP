@@ -10,9 +10,8 @@ This project provides two summarization approaches:
 - GAN-based Text Generator
 - Frequency-based Extractive Summarizer
 - Clean UI with Glassmorphism design
-![Automated Text Summarization App](app_ui.png)
-![Automated Text Summarization App](app_working.png)
-
+- ![Automated Text Summarization App](assets/app_ui.png)
+- ![Automated Text Summarization App](assets/app_working.png)
 
 
 ## 🛠 Technologies Used
